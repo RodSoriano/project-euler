@@ -1,4 +1,5 @@
-//Might need refactoring.
+// https://projecteuler.net/problem=2
+// Needs refactoring.
 
 function fiboEvenSum(n) {
   let sequence = [1, 2];

@@ -1,4 +1,5 @@
 // https://projecteuler.net/problem=4
+// Needs refactoring.
 
 function largestPalindromeProduct(n) {
   let number = '9';
